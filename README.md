@@ -3,7 +3,7 @@
 ### Summary
 
 
-  This "project" aims to use genuine AUDI A6 4FH Battery Energy Monitor(BEM) as realtime current measuring probe 
+  This "project" aims to use genuine AUDI A6 4FH Battery Energy Monitor(BEM) ![BEM Picture](pictures/partnumber.jpg) as realtime current measuring probe 
 with data logging feature and/or online transmission to remote computer.
 
 ### Motivation
