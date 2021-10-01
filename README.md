@@ -3,7 +3,7 @@
 ### Summary
 
 
-  This "project" aims to use genuine AUDI A6 4FH Battery Energy Monitor(BEM)... ![BEM Picture](pictures/partnumber.jpg) ...as realtime current measuring probe 
+  This "project" aims to use genuine AUDI A6 4FH J644 Battery Energy Monitor(BEM)... ![BEM Picture](pictures/partnumber.jpg) ...as realtime current measuring probe 
 with data logging feature and/or online transmission to remote computer.
 
 ### Motivation
@@ -27,7 +27,7 @@ Some parts identification:
 
 * TMS470 980 - seems to be ARM based automotive MCU
 * Bosch 30589 0625 - unknown - probably some kind of another MCU
-* 12kHz oscillator - upper right corner, probably for TMS470
+* 12MHz oscillator - upper right corner, probably for TMS470
 * 16kbit serial SPI bus EEPROM - upper left corner (95160W3)
 * TJA1054T - CAN-BUS transceiver
 
