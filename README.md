@@ -32,3 +32,7 @@ Some parts identification:
 * TJA1054T - CAN-BUS transceiver
 
 
+#### Detailed PCB View
+
+![PCB View](pictures/pcb.jpg)
+
